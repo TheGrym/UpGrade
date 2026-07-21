@@ -1,9 +1,0 @@
-export { Label }       from "./Label.jsx";
-export { Display }     from "./Display.jsx";
-export { Rule }        from "./Rule.jsx";
-export { Metric }      from "./Metric.jsx";
-export { Btn }         from "./Btn.jsx";
-export { Input }       from "./Input.jsx";
-export { Section }     from "./Section.jsx";
-export { Modal }       from "./Modal.jsx";
-export { GlobalStyles } from "./GlobalStyles.jsx";
